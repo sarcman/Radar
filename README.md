@@ -1,4 +1,4 @@
-# RADAR | an interactive notation system for any number & combination of instruments
+# RADAR | A Realtime Animated Score for Any Number & Combination of Instruments
 
 <i class="fa fa-download fa-2x"></i> 
 
